@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const errorMessage = document.getElementById('error-message');
 
     // **IMPORTANTE**: Reemplaza con tu clave API real
-    const API_KEY = '435e0847ce7e457dad6c5360c8442625';
+    const API_KEY = '4f4de6f4c2cb7977996a6fd25783dd11';
     const BASE_URL = 'https://api.openweathermap.org/data/2.5/';
 
     // Función principal para obtener datos del clima
